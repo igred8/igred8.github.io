@@ -2,7 +2,7 @@
 
 Hi, bookmark this page to keep an eye out on my public work.
 
-[About ([/about)
+[About](about)
 
 ## Welcome to GitHub Pages
 
