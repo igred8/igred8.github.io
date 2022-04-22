@@ -2,7 +2,7 @@
 
 Hi, bookmark this page to keep an eye out on my public work.
 
-[page1](https://igred8.github.io/page1)
+[About ([/about)
 
 ## Welcome to GitHub Pages
 
