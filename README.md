@@ -2,7 +2,7 @@
 
 Hi, bookmark this page to keep an eye out on my public work.
 
-[About](/about/about.md)
+[About](about.md)
 
 ## Welcome to GitHub Pages
 
