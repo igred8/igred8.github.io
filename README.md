@@ -3,7 +3,7 @@
 Hi, bookmark this page to keep an eye out on my public work.
 
 [About](about.md)
-
+[post 1]({% post_url /_posts/2022-04-22-first %})
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/igred8/igred8.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
